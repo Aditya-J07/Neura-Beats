@@ -40,7 +40,33 @@ We propose an **AI-based adaptive music therapy platform** that:
 ---
 
 ## 📂 Repository Structure
-
+```bash
+├── .git
+│   ├── hooks
+│   ├── info
+│   ├── logs
+│   │   └── refs
+│   │       ├── heads
+│   │       └── remotes
+│   │           └── origin
+│   ├── objects
+│   │   ├── [multiple subfolders...]
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       ├── remotes
+│       │   └── origin
+│       ├── replit
+│       └── tags
+├── attached_assets
+├── instance
+├── static
+│   ├── css
+│   └── js
+├── templates
+└── __pycache__
+```
 
 ## 📸 Screenshots / Mockups
 ![e8147a50-968e-4654-ab34-1ddfd0bbb496](https://github.com/user-attachments/assets/934e06fa-71a7-47eb-83b4-ad16dc138793)
