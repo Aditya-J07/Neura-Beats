@@ -67,6 +67,7 @@ We propose an **AI-based adaptive music therapy platform** that:
 ├── templates
 └── __pycache__
 ```
+---
 
 ## 📸 Screenshots / Mockups
 ![e8147a50-968e-4654-ab34-1ddfd0bbb496](https://github.com/user-attachments/assets/934e06fa-71a7-47eb-83b4-ad16dc138793)
@@ -74,6 +75,8 @@ We propose an **AI-based adaptive music therapy platform** that:
 ![07444b3a-3c64-4491-84b4-5bb465be5e99](https://github.com/user-attachments/assets/2d203f62-53a2-40bf-a556-a811d830233a)
 ![0956cb9d-3e46-424d-8844-7daa0900ca30](https://github.com/user-attachments/assets/ed3814ea-e9c2-4063-b785-5d7752383161)
 ![d9b25c98-1ccd-4f5b-92b0-4f261c3c0196](https://github.com/user-attachments/assets/e3612b5b-eb45-4259-b152-345b8b307325)
+
+---
 
 ## 📚 Research & References
 - Studies on **Music-Assisted Therapy (MAT)** for Parkinson’s  
@@ -91,12 +94,15 @@ We propose an **AI-based adaptive music therapy platform** that:
   - [R7](https://www.sciencedirect.com/science/article/abs/pii/S0953620511000513)  
   - [R8](https://books.google.co.in/books?hl=en&lr=&id=UVOZBQAAQBAJ&oi=fnd&pg=PP1&dq=Strokes+Cure+by+music+beats&ots=hwFx_aWpKn&sig=r-cKYl78zgJV-8b4YXVNr05QbDA&redir_esc=y#v=onepage&q&f=false)
 
+---
 
 ## 👨‍💻 Team String Coders
 - Aditya Jha
 - Harsh Tiwari
 - Pulkit Tiwari
 - Yash Kumar
+
+---
 
 ## 🙌 Acknowledgments
 - Hackathon organizers & mentors  
