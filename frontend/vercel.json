@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "public": ".",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://example.com/$1"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
